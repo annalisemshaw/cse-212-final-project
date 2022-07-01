@@ -14,5 +14,34 @@ size()          | Returns the size of the queue | length = len(new_queue) | O(1)
 empty()         | Returns if the length of the queue is equal to zero | if len(new_queue) == 0: | O(1) - Performance of checking if the size of the queue is 0
 
 ## Example
+In this example, I will demonstrate how to create a queue and add and remove elements from it using a list
+
+```python
+#initializing the queue
+new_queue = []
+
+#adding elements to the queue
+new_queue.append('p')
+new_queue.append('y')
+new_queue.append('t')
+new_queue.append('h')
+new_queue.append('o')
+new_queue.append('n')
+
+#print your queue
+print("Initial Queue")
+print(new_queue)
+
+#dequeue 
+print("\nElements dequeued from queue")
+print(new_queue.pop(0))
+print(new_queue.pop(0))
+print(new_queue.pop(0))
+
+
+print("\nQueue after removing elements")
+print(queue)
+
+```
 
 ## Problem to Solve
