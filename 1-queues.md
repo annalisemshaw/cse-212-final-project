@@ -8,10 +8,10 @@ A queue is a linear data structure that represents a list. A queue follows the F
 ## Queue Operations
 Queue Operation | What it does  | Code     | Performance
 --------------- | ------------- | -------- | -----------
-enqueue(value)  | Adds value to the back of queue| new_queue.append()(value)         | 
-dequeue()       | value 22 | value 32 |
-size()          | value 23 | value 33 |
-empty()         | 
+enqueue(value)  | Adds value to the back of queue| new_queue.append(value) | O(1) - Performance of adding value to end of a dynamic array
+dequeue()       | Remove or pop off the value from the front of queue | value = new_queue[0] del new_queue[value] or value = new_queue.pop(0) | O(n) - Performance of getting and removing the beginning element of the dynamic array
+size()          | Returns the size of the queue | length = len(new_queue) | O(1) - Performance of returning the size of the dynamic array
+empty()         | Returns if the length of the queue is equal to zero | if len(new_queue) == 0: | O(1) - Performance of checking if the size of the queue is 0
 
 ## Example
 
