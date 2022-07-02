@@ -45,7 +45,6 @@ print(new_queue.pop(0))
 print("\nQueue after removing elements")
 print(queue)
 
-"""
 Output:
 
 Initial Queue
@@ -61,7 +60,6 @@ n
 
 Queue after removing elements
 []
-""
 
 ```
 
