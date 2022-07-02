@@ -37,6 +37,9 @@ print("\nElements dequeued from queue")
 print(new_queue.pop(0))
 print(new_queue.pop(0))
 print(new_queue.pop(0))
+print(new_queue.pop(0))
+print(new_queue.pop(0))
+print(new_queue.pop(0))
 
 
 print("\nQueue after removing elements")
@@ -44,4 +47,4 @@ print(queue)
 
 ```
 
-## Problem to Solve
+## Problem to Solve:
