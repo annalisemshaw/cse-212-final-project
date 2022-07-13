@@ -45,7 +45,8 @@ print(new_queue.pop(0))
 print("\nQueue after removing elements")
 print(queue)
 
-Output: Initial Queue
+Output: 
+Initial Queue
 ['p', 'y', 't', 'h', 'o', 'n']
 
 Elements dequeued from queue
