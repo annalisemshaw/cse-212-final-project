@@ -63,7 +63,7 @@ Queue after removing elements
 ```
 
 ## Problem to Solve:
-Given an integer n and a queue of integers, we need to reverse the first n elements and leave the remaining elements in the same order they were already in.
+Given an integer n and a queue of integers, reverse the first n elements and leave the remaining elements in the same order they were already in.
 
 Only the following standard queue operations are allowed:
 - enqueue(x)
