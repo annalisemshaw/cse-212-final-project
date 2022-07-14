@@ -71,8 +71,8 @@ Only the following standard queue operations are allowed:
 3. size()
 4. empty()
 
-Examples of Expected Output:
-Input: q = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+Examples of Expected Output:&nbsp;
+Input: q = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]&nbsp;
        n = 5&nbsp;
 Output: q = [50, 40, 30, 20, 10, 60, 70, 80, 90, 100]&nbsp;
 
