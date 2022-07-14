@@ -83,3 +83,5 @@ You can test your program with the following scenarios:
     - Expected output: q = [10, 43, 7, 21, 50, 35, 8, 19]
 - Q = [10, 9, 8, 7, 6, 5, 4, 3, 2, 1], n = 7
     - expected output: [4, 5, 6, 7, 8, 9, 10, 3, 2, 1]
+
+Once you've attempted to solve the problem check your solution here: [Solution](queue-solution.md)
