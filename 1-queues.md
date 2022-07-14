@@ -66,14 +66,20 @@ Queue after removing elements
 Given an integer n and a queue of integers, we need to reverse the first n elements and leave the remaining elements in the same order they were already in.
 
 Only the following standard queue operations are allowed:
-1. enqueue(x)
-2. dequeue()
-3. size()
-4. empty()
+- enqueue(x)
+- dequeue()
+- size()
+- empty()
 
 ### Examples of Expected Output:
-Input: q = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
-       n = 5
-&nbsp;Output: q = [50, 40, 30, 20, 10, 60, 70, 80, 90, 100]
+Input: q = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100], n = 5
+Output: q = [50, 40, 30, 20, 10, 60, 70, 80, 90, 100]
 
-Input: q = 
+Input: q = [25, 50, 75, 100], n = 2
+Output: q = [50, 25, 75, 100]
+
+You can test your program with the following scenarios:
+- q = [7, 43, 10, 21, 50, 35, 8, 19], n = 3
+    - expected output: q = [10, 43, 7, 21, 50, 35, 8, 19]
+- q = [10, 9, 8, 7, 6, 5, 4, 3, 2, 1], n = 7
+    - expected output: [4, 5, 6, 7, 8, 9, 10, 3, 2, 1]
