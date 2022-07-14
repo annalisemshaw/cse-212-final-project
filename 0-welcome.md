@@ -1,4 +1,4 @@
-# Programming With Python Data Structures Tutorial**
+# Programming With Python Data Structures Tutorial
 
 Welcome to the Programming with Python Data Structures Tutorial. Every Python programmer needs to understand these topics:
 
