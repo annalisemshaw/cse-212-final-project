@@ -72,14 +72,14 @@ Only the following standard queue operations are allowed:
 - empty()
 
 ### Examples of Expected Output:
-Input: q = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100], n = 5
-Output: q = [50, 40, 30, 20, 10, 60, 70, 80, 90, 100]
+Input: Q = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100], n = 5
+Output: Q = [50, 40, 30, 20, 10, 60, 70, 80, 90, 100]
 
-Input: q = [25, 50, 75, 100], n = 2
-Output: q = [50, 25, 75, 100]
+Input: Q = [25, 50, 75, 100], n = 2
+Output: Q = [50, 25, 75, 100]
 
 You can test your program with the following scenarios:
-- q = [7, 43, 10, 21, 50, 35, 8, 19], n = 3
-    - expected output: q = [10, 43, 7, 21, 50, 35, 8, 19]
-- q = [10, 9, 8, 7, 6, 5, 4, 3, 2, 1], n = 7
+- Q = [7, 43, 10, 21, 50, 35, 8, 19], n = 3
+    - Expected output: q = [10, 43, 7, 21, 50, 35, 8, 19]
+- Q = [10, 9, 8, 7, 6, 5, 4, 3, 2, 1], n = 7
     - expected output: [4, 5, 6, 7, 8, 9, 10, 3, 2, 1]
