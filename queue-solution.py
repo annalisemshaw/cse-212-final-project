@@ -1,4 +1,3 @@
-```python
 # function to reverse the first n
 # elements of the queue
 
@@ -98,4 +97,3 @@ queue.append(15)
 queue.append(20)
 reverseElements(-1, queue)
 print(queue)
-```
