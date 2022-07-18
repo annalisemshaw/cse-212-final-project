@@ -242,6 +242,6 @@ You may test your program with the following scenarios:
 
 Remember to check if the data/inputs are valid...
 
-Once you've attempted to solve the problem, check your solution here: [Solution](linked-list-solution.md)
+Once you've attempted to solve the problem, check your solution here: [Solution](linked-list-solution.py)
 
 [Back to Welcome Page](0-welcome.md)
