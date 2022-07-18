@@ -244,3 +244,4 @@ Remember to check if the data/inputs are valid...
 
 Once you've attempted to solve the problem, check your solution here: [Solution](linked-list-solution.md)
 
+[Back to Welcome Page](0-welcome.md)
