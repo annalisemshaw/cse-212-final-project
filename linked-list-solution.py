@@ -22,9 +22,9 @@ class LinkedList:
 	# Function to insert a new node
 	# at the beginning
 	def insert(self, value):
-		new_node = Node(value)
-		new_node.next = self.head
-		self.head = new_node
+	   new_node = Node(value)
+	   new_node.next = self.head
+	   self.head = new_node
 
 	# Given a reference to the head of a
 	# list and a key, delete the first
@@ -74,6 +74,7 @@ class LinkedList:
 	def removeDuplicates(self):
 		temp = self.head
 		if temp is None:
+			print("List is empty. Please insert into the list.")
 			return
 		while temp.next is not None:
 			if temp.data == temp.next.data:
@@ -95,6 +96,16 @@ llist.insert(20)
 llist.insert(20)
 llist.insert(10)
 llist.insert(10)
+print ("Created Linked List: ")
+llist.printList()
+print()
+print("Linked List after removing",
+			"duplicate elements:")
+llist.removeDuplicates()
+llist.printList()
+
+llist = LinkedList()
+print ("\n")
 print ("Created Linked List: ")
 llist.printList()
 print()
