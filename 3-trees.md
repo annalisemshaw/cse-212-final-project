@@ -10,7 +10,7 @@ We are going to cover three different types of trees: binary trees, binary searc
 ### Binary Trees
 Binary Trees have a structure in which each node can only have a maximum of two children. We name its children the left and right child. The left child is usually
 
-[Figure 1 - Binary Tree](/assets/Binary_tree_(oriented_digraph).png)
+![Figure 1 - Binary Tree](/assets/Binary_tree_(oriented_digraph).png)
 
 ### Binary Search Trees
 The data inserted into a binary search tree is slightly different from a binary tree. 
