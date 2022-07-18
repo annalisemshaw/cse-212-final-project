@@ -230,8 +230,8 @@ In this module your coding challenge is to write a program that takes an unsorte
 Only the common linked list operations in this module are allowed to solve this problem.
 
 # Examples of Expected Output:
-- Linked list before: 10 10 20 20 30 30 40 50
-    - Linked list after: 10 20 30 40 50
+- Linked list before: [10 10 20 20 30 30 40 50]
+    - Linked list after: [10 20 30 40 50]
 
 You may test your program with the following scenarios:
 - linkedList = [5, 10, 15, 20, 25, 25]
