@@ -142,6 +142,7 @@ def traverseInOrder(self, node):
 
 ## Common tree operations
 Common BST Operation | Description | Performance
+-------------------- | ----------- | -----------
 insert(value) | Inserts a value into the tree | O(log n)
 remove(value) | Removes a value from the tree | O(log n)
 search(value) | Searches for an element within the tree | O(log n)
