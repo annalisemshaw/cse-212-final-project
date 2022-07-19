@@ -1,4 +1,4 @@
-# function to reverse the first n
+# Python program to reverse the first n
 # elements of the queue
 
 queue = []

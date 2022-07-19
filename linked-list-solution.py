@@ -1,4 +1,4 @@
-# Program to remove duplicate
+# Python program to remove duplicate
 # nodes from a sorted linked list
 
 # Node class
